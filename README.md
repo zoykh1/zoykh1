@@ -32,8 +32,10 @@
 </div>
 
 <div align="center">
+  
 ## **Stats :fire::**
-<img src="https://github-readme-stats.vercel.app/api/?username=zykeladebrouille&count_private=true&theme=tokyonight&showicons=true" alt="Enes's Github stats">
+  
+<img src="https://github-readme-stats.vercel.app/api/?username=zoykh1&count_private=true&theme=tokyonight&showicons=true" alt="Ahmet's Github stats">
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zoykh1&label=Profile%20views&color=ce3636&style=flat" alt="Zoykh1" /> </p>
